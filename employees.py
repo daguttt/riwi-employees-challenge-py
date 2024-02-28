@@ -50,5 +50,8 @@ print(overview_template.format(
     new_salary=new_employee_salary,
 ))
 print("before", selected_employee)
+# This would modify the employee dictionary that is already
+# in the employee list. So if we print the list (line 57) it'll show the change.
 selected_employee["base_salary"] = new_employee_salary
 print("after", selected_employee)
+print(employees)
