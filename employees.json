@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department": "IT",
+        "base_salary": 50000,
+        "years_of_service": 5
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "department": "Marketing",
+        "base_salary": 45000,
+        "years_of_service": 3
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "department": "Sales",
+        "base_salary": 47000,
+        "years_of_service": 4
+    },
+    {
+        "id": 4,
+        "name": "Alice Williams",
+        "department": "HR",
+        "base_salary": 48000,
+        "years_of_service": 2
+    },
+    {
+        "id": 5,
+        "name": "Charlie Brown",
+        "department": "IT",
+        "base_salary": 51000,
+        "years_of_service": 6
+    },
+    {
+        "id": 6,
+        "name": "David Davis",
+        "department": "Marketing",
+        "base_salary": 46000,
+        "years_of_service": 3
+    },
+    {
+        "id": 7,
+        "name": "Eva Green",
+        "department": "Sales",
+        "base_salary": 47500,
+        "years_of_service": 4
+    },
+    {
+        "id": 8,
+        "name": "Frank Sinatra",
+        "department": "HR",
+        "base_salary": 49000,
+        "years_of_service": 2
+    },
+    {
+        "id": 9,
+        "name": "Grace Kelly",
+        "department": "IT",
+        "base_salary": 52000,
+        "years_of_service": 6
+    },
+    {
+        "id": 10,
+        "name": "Hank Moody",
+        "department": "Marketing",
+        "base_salary": 47000,
+        "years_of_service": 3
+    },
+    {
+        "id": 11,
+        "name": "Irene Adler",
+        "department": "Sales",
+        "base_salary": 48000,
+        "years_of_service": 4
+    },
+    {
+        "id": 12,
+        "name": "Jack Sparrow",
+        "department": "HR",
+        "base_salary": 50000,
+        "years_of_service": 2
+    },
+    {
+        "id": 13,
+        "name": "Kate Winslet",
+        "department": "IT",
+        "base_salary": 53000,
+        "years_of_service": 6
+    }
+]
